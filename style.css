@@ -1,0 +1,45 @@
+
+
+
+body{
+    background-image: url('assets/images/background-pattern-desktop.svg');
+    width: 100vw;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-color: hsl(275, 100%, 97%);
+    font-family: 'Work Sans';
+    
+}
+h1{
+    font-weight: 700;
+}
+h5{
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.card-con {
+    width: 400px;
+    height: 500px;
+    background-color: #ffffff;
+    
+    border-radius: 9px;
+    
+}
+.star-img {
+    margin-right: 15px;
+    width: 25px;
+}
+p{
+    color: hsl(292, 16%, 49%);
+}
+.end-blck div {
+    padding-bottom: 20px;
+    font-weight: 600;
+}
+label:hover{
+   color:hsl(292, 42%, 14%);
+    cursor: pointer;
+}
+
+
